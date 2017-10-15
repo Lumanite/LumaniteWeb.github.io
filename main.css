@@ -1,0 +1,144 @@
+body {
+					background-color: white;
+				}
+					h1 {
+						color: black;
+						text-align: center;
+					}
+							p {
+								color: black;
+								text-align: center;
+							}
+									.btn-group .button {
+										background-color: #00cc99;
+										border: black;
+										color: white;
+										padding: 16px 35px;
+										text-align: center;
+										text-decoration: none;
+										display: block;
+										font-size: 20px;
+										cursor: pointer;
+										float: left;
+									}
+									.btn-group .button:hover {
+										background-color: #009973
+									}
+								.btn-group1 .button {
+									background-color: #00cc99;
+									border: black;
+									color: white;
+									padding: 16px 35px;
+									text-align: center;
+									text-decoration: none;
+									display: block;
+									font-size: 20px;
+									cursor: pointer;
+									float: left;
+								}
+								.btn-group1 .button:hover {
+									background-color: #009973
+								}
+							.btn-group2 .button {
+								background-color: #00cc99;
+								border: black;
+								color: white;
+								padding: 16px 35px;
+								text-align: center;
+								text-decoration: none;
+								display: block;
+								font-size: 20px;
+								cursor: pointer;
+								float: left;
+							}
+							.btn-group2 .button:hover {
+								background-color: #009973
+							}
+						.btn-group4 .button {
+							background-color: #00cc99;
+							border: black;
+							color: white;
+							padding: 16px 35px;
+							text-align: center;
+							text-decoration: none;
+							display: block;
+							font-size: 20px;
+							cursor: pointer;
+							float: left;
+						}
+						.btn-group4 .button:hover {
+							background-color: #009973
+						}
+					.btn-group5 .button {
+						background-color: #00cc99;
+						border: black;
+						color: white;
+						padding: 16px 35px;
+						text-align: center;
+						text-decoration: none;
+						display: block;
+						font-size: 20px;
+						cursor: pointer;
+						float: left;
+					}
+					.btn-group5 .button:hover {
+						background-color: #009973
+					}
+				.btn-group6 .button {
+					background-color: #00cc99;
+					border: black;
+					color: white;
+					padding: 16px 35px;
+					text-align: center;
+					text-decoration: none;
+					display: block;
+					font-size: 20px;
+					cursor: pointer;
+					float: left;
+				}
+				.btn-group6 .button:hover {
+					background-color: #009973
+				}
+										.btn-group3 .button1 {
+											background-color: #00cc99;
+											border: black;
+											color: white;
+											padding: 24px 35px;
+											text-align: center;
+											text-decoration: none;
+											display: block;
+											font-size: 25px;
+											cursor: pointer;
+											float: left;
+										}
+										.btn-group3 .button1:hover {
+											background-color: #009973
+										}
+										.btn-group3 .disabled {
+											opacity: 0.6;
+											cursor: not-allowed;
+										}
+									.btn-group .disabled {
+										opacity: 0.6;
+										cursor: not-allowed;
+									}
+								.btn-group1 .disabled {
+									opacity: 0.6;
+									cursor: not-allowed;
+								}
+							.btn-group2 .disabled {
+								opacity: 0.6;
+								cursor: not-allowed;
+							}
+						.btn-group4 .disabled {
+							opacity: 0.6;
+							cursor: not-allowed;
+						}
+					.btn-group5 .disabled {
+						opacity: 0.6;
+						cursor: not-allowed;
+					}
+				.btn-group6 .disabled {
+					opacity: 0.6;
+					cursor: not-allowed;
+				}
